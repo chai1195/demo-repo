@@ -1,0 +1,6 @@
+This branch is woriking on new application. 
+The application is related to game. 
+Some 7 people are got stuck in the Island and they have to escape from that Island
+By clearing the levels User are helping them to by giving them basic requirements food shelter and ect.., 
+For entertainment purpose user can apply for some of objects which will be unlocked after each level cleared
+And in the help them to come out from Island
